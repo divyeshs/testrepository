@@ -1,1 +1,2 @@
 This is first line in this file. - 19/07/2013
+This is second line from mac terminal window. - 19/07/2013
